@@ -1,0 +1,95 @@
+testes/:
+total 7228
+drwxr-xr-x 2 tyago users    4096 2007-10-25 17:57 7zip
+-rw-r--r-- 1 tyago users  185454 2007-10-25 09:53 bandeira_Brasil.bmp
+-rw-r--r-- 1 tyago users 1440054 2007-10-25 09:48 bandeiras_mundo.bmp
+drwxr-xr-x 2 tyago users    4096 2007-10-25 18:05 brazip
+-rw-r--r-- 1 tyago users  245814 2007-10-25 10:46 marilia.bmp
+-rw-r--r-- 1 tyago users  245814 2007-10-25 10:46 moises.bmp
+-rw-r--r-- 1 tyago users 1440054 2007-10-25 09:51 paisagem.bmp
+drwxr-xr-x 2 tyago users    4096 2007-10-25 18:18 press4all
+-rw-r--r-- 1 tyago users 2359350 2007-10-25 10:31 printscreen_wikipedia.bmp
+-rw-r--r-- 1 tyago users 1440054 2007-10-25 10:35 todobranco.bmp
+drwxr-xr-x 2 tyago users    4096 2007-10-25 18:16 winace
+drwxr-xr-x 2 tyago users    4096 2007-10-25 18:22 winrar
+drwxr-xr-x 4 tyago users      46 2007-10-25 18:24 winzip
+
+testes/7zip:
+total 1888
+-rw-r--r-- 1 tyago users  26813 2007-10-25 13:32 bandeira_Brasil.7z
+-rw-r--r-- 1 tyago users 456463 2007-10-25 13:31 bandeiras_mundo.7z
+-rw-r--r-- 1 tyago users 208831 2007-10-25 13:33 marilia.7z
+-rw-r--r-- 1 tyago users 199489 2007-10-25 13:33 moises.7z
+-rw-r--r-- 1 tyago users    146 2007-10-25 13:37 Notes.txt
+-rw-r--r-- 1 tyago users 913332 2007-10-25 13:33 paisagem.7z
+-rw-r--r-- 1 tyago users 114218 2007-10-25 13:33 printscreen_wikipedia.7z
+-rw-r--r-- 1 tyago users    202 2007-10-25 13:34 todobranco.7z
+
+testes/brazip:
+total 2264
+-rw-r--r-- 1 tyago users   34453 2007-10-25 13:41 bandeira_Brasil.zip
+-rw-r--r-- 1 tyago users  475660 2007-10-25 13:41 bandeiras_mundo.zip
+-rw-r--r-- 1 tyago users  228446 2007-10-25 13:41 marilia.zip
+-rw-r--r-- 1 tyago users  223943 2007-10-25 13:41 moises.zip
+-rw-r--r-- 1 tyago users      94 2007-10-25 13:42 Notes.txt
+-rw-r--r-- 1 tyago users 1187282 2007-10-25 13:42 paisagem.zip
+-rw-r--r-- 1 tyago users  150135 2007-10-25 13:42 printscreen_wikipedia.zip
+-rw-r--r-- 1 tyago users    1575 2007-10-25 13:42 todobranco.zip
+
+testes/press4all:
+total 4340
+-rw-r--r-- 1 tyago users   96263 2007-10-25 17:31 bandeira_Brasil.p4a
+-rw-r--r-- 1 tyago users 1039442 2007-10-25 17:32 bandeiras_mundo.p4a
+-rw-r--r-- 1 tyago users  242450 2007-10-25 17:32 marilia.p4a
+-rw-r--r-- 1 tyago users  236817 2007-10-25 17:33 moises.p4a
+-rw-r--r-- 1 tyago users 1422752 2007-10-25 17:34 paisagem.p4a
+-rw-r--r-- 1 tyago users 1215182 2007-10-25 17:35 printscreen_wikipedia.p4a
+-rw-r--r-- 1 tyago users  180051 2007-10-25 17:35 todobranco.p4a
+
+testes/winace:
+total 1556
+-rw-r--r-- 1 tyago users  33135 2007-10-25 13:45 bandeira_Brasil.ace
+-rw-r--r-- 1 tyago users 463147 2007-10-25 13:46 bandeiras_mundo.ace
+-rw-r--r-- 1 tyago users 130667 2007-10-25 13:46 marilia.ace
+-rw-r--r-- 1 tyago users 122794 2007-10-25 13:46 moises.ace
+-rw-r--r-- 1 tyago users    130 2007-10-25 13:49 Notes.txt
+-rw-r--r-- 1 tyago users 686380 2007-10-25 13:46 paisagem.ace
+-rw-r--r-- 1 tyago users 135349 2007-10-25 13:47 printscreen_wikipedia.ace
+-rw-r--r-- 1 tyago users   1574 2007-10-25 13:47 todobranco.ace
+
+testes/winrar:
+total 1640
+-rw-r--r-- 1 tyago users  36562 2007-10-25 13:51 bandeira_Brasil.rar
+-rw-r--r-- 1 tyago users 464556 2007-10-25 13:51 bandeiras_mundo.rar
+-rw-r--r-- 1 tyago users 137445 2007-10-25 13:51 marilia.rar
+-rw-r--r-- 1 tyago users 130312 2007-10-25 13:51 moises.rar
+-rw-r--r-- 1 tyago users     91 2007-10-25 13:52 Notes.txt
+-rw-r--r-- 1 tyago users 752627 2007-10-25 13:51 paisagem.rar
+-rw-r--r-- 1 tyago users 141785 2007-10-25 13:51 printscreen_wikipedia.rar
+-rw-r--r-- 1 tyago users    836 2007-10-25 13:51 todobranco.rar
+
+testes/winzip:
+total 12
+drwxr-xr-x 2 tyago users 4096 2007-10-25 18:24 best
+-rw-r--r-- 1 tyago users  142 2007-10-25 13:59 Notes.txt
+drwxr-xr-x 2 tyago users 4096 2007-10-25 18:29 zip2.0
+
+testes/winzip/best:
+total 1988
+-rw-r--r-- 1 tyago users   25696 2007-10-25 14:00 bandeira_Brasil.zip
+-rw-r--r-- 1 tyago users  428045 2007-10-25 14:00 bandeiras_mundo.zip
+-rw-r--r-- 1 tyago users  214940 2007-10-25 14:00 marilia.zip
+-rw-r--r-- 1 tyago users  209681 2007-10-25 14:00 moises.zip
+-rw-r--r-- 1 tyago users 1024821 2007-10-25 14:00 paisagem.zip
+-rw-r--r-- 1 tyago users  112605 2007-10-25 14:01 printscreen_wikipedia.zip
+-rw-r--r-- 1 tyago users     726 2007-10-25 14:01 todobranco.zip
+
+testes/winzip/zip2.0:
+total 2252
+-rw-r--r-- 1 tyago users   34082 2007-10-25 13:56 bandeira_Brasil.zip
+-rw-r--r-- 1 tyago users  476161 2007-10-25 13:57 bandeiras_mundo.zip
+-rw-r--r-- 1 tyago users  229142 2007-10-25 13:57 marilia.zip
+-rw-r--r-- 1 tyago users  224470 2007-10-25 13:57 moises.zip
+-rw-r--r-- 1 tyago users 1187812 2007-10-25 13:57 paisagem.zip
+-rw-r--r-- 1 tyago users  143286 2007-10-25 13:57 printscreen_wikipedia.zip
+-rw-r--r-- 1 tyago users    1611 2007-10-25 13:58 todobranco.zip
